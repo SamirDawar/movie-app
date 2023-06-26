@@ -30,12 +30,6 @@ export const App = () => {
 
   return (
     <div className='app'>
-        <div className='tgl'>
-            <label class="switch">
-                <input type="checkbox"/>
-                <span class="slider"></span>
-            </label>
-        </div>
 
         <h1>Movie Theory</h1>
         <div className='search'>
